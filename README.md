@@ -5,3 +5,4 @@ This is a backup
 
 Also we can opnly use one page at a time to host a site in free github, so this portfolio site is not up
 
+[![OmkarVuddanti.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https:OmkarVuddanti.github.io)
